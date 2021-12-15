@@ -1,9 +1,7 @@
 ## Welcome to my Portfolio
-
-You can use the [editor on GitHub](https://github.com/ARAGON-666/ARAGON-666.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I Welcome you all for visiting this site.
+First of all let me introduce myself I'm a beginner level programmer and this site is going to track my progress and proofs for all the programs that I've coded.
+Being a novice here please excuse my code writting skills and my demeanour.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
